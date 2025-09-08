@@ -22,4 +22,7 @@ You can play against a friend on the same device. The game checks winners automa
 ---
 
 ## 📂 Project Structure  
-
+Tic-Tac-Toe/
+│── index.html # Main HTML file
+│── style.css # Styling
+│── app.js # Game logic
